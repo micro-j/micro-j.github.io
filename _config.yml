@@ -6,16 +6,16 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: Your awesome title
-author: Jekyll Writer
+title: 麦壳街(MICRO-J)
+author: micro-j
 description: > # this means to ignore newlines until "baseurl:"
   This theme is disigned based on Mailbox Blog, and licensed under MIT.
   This theme is also default theme for new site created by Jekyll Writer.
 permalink: /:year/:month/:day/:title/
 paginate: 6
 paginate_path: "/page/:num/"
-twitter_username: jekyllwriter
-github_username:  jekyllwriter
+twitter_username: micro-j
+github_username:  micro-j
 gems: [jekyll-paginate]
 markdown: kramdown
 baseurl: ""
