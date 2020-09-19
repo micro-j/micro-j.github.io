@@ -8,15 +8,15 @@ layout: page
 
 <h2>关于作者</h2>
 
-<img src="/assets/images/andy.jpg" height="150" width="160" align="left" />
-
-<div style="text-align: left;">
-	<p>"安迪·杨"，草根工程师，毕业于某不知名大学，混迹嵌入式相关行业10余年，略懂国际及国密安全算	法，略懂ARM及x86汇编语言，略懂RTOS类实时操作系统，略懂嵌入式虚拟机及解释器原理，略懂各种外围		I/O接口协议，略懂C/C++及JAVA语言Hello World，略懂...略懂...
-    </p>
+<div style="background: left;">
+    <img src="assets/images/andy.jpg" height="150" width="160"/>
 </div>
 
 
-
+<div style="text-align: left;">
+	<p>"安迪·杨"，草根工程师，毕业于某不知名大学，混迹嵌入式相关行业10余年，略懂国际及国密安全算法，略懂ARM及x86汇编语言，略懂RTOS类实时操作系统，略懂嵌入式虚拟机及解释器原理，略懂各种外围I/O接口协议，略懂C/C++及JAVA语言Hello World，略懂...略懂...
+    </p>
+</div>
 
 <h2>开源项目</h2>
 
@@ -24,8 +24,6 @@ layout: page
 	<li><a href="https://github.com/micro-j/je-BASIC">je-BASIC</a> 一款嵌入式BASIC语言解释器，适用于资源受限型MCU.</li>
     <li></li>
 </ul>
-
-
 
 <h2>免责声明</h2>
 
