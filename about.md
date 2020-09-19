@@ -8,7 +8,9 @@ layout: page
 
 <h2>关于作者</h2>
 
-<div><img src="assets/images/andy.jpg" width="160" height="150" /></div>
+<img src="assets/images/andy.jpg" width="160" height="150" align="left" />
+
+<div></div>
 
 
 <div style="text-align: left;">
@@ -19,9 +21,10 @@ layout: page
 <h2>开源项目</h2>
 
 <ul class="skill-list">
-	<li><a href="https://github.com/micro-j/je-BASIC">je-BASIC</a> 一款嵌入式BASIC语言解释器，适用于资源受限型MCU.</li>
+	<li>"je-BASIC" 一款嵌入式BASIC语言解释器，适用于资源受限型MCU.</li>
     <li></li>
 </ul>
+
 
 <h2>免责声明</h2>
 
