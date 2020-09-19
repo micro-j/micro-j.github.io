@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>麦壳街(MICRO-J)，由"安迪·杨"创建于2020年，私人网站，用于发布开源项目及博客软文.</p>
+<p>麦壳街(MICRO-J)，由"安迪·杨"创建于2020年，开源软硬件网站，用于发布开源项目及博客软文.</p>
 
 <h2>关于作者</h2>
 
