@@ -10,7 +10,7 @@ layout: page
 
 <img src="assets/images/andy.jpg" width="160" height="150" align="left" />
 
-<h5></h5>
+<h6>人物介绍</h6>
 
 
 <div style="text-align: left;">
