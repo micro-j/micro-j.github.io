@@ -34,22 +34,23 @@ disqus:
   categories: [blog, project] # only show disqus for posts that have these categories
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-instagram: myinstagram
-pinterest: mypinterest
-linkedin: mylinkedin
-youtube: myyoutube
-spotify: myspotify
+# facebook: myfacebook
+# twitter: mytwitter
+# instagram: myinstagram
+# pinterest: mypinterest
+# linkedin: mylinkedin
+# youtube: myyoutube
+# spotify: myspotify
 github: micro-j
-gitlab: mygitlab
-lastfm: mylastfm
-stackoverflow: 7044681/mystackoverflow
-quora: userquora
-reddit: username
-medium: medium
-vimeo: myvimeo
-lanyrd: mylanyrd
+gitee: micro-j
+# gitlab: mygitlab
+# lastfm: mylastfm
+# stackoverflow: 7044681/mystackoverflow
+# quora: userquora
+# reddit: username
+# medium: medium
+# vimeo: myvimeo
+# lanyrd: mylanyrd
 email: microje@163.com
 
 authors:
