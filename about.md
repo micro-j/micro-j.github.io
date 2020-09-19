@@ -8,11 +8,13 @@ layout: page
 
 <h2>关于作者</h2>
 
+<img src="/assets/images/andy.jpg" height="150" width="160" align="left" />
+
 <div style="text-align: left;">
-	<img src="./assets/images/andy.jpg" height="150" width="160" />
 	<p>"安迪·杨"，草根工程师，毕业于某不知名大学，混迹嵌入式相关行业10余年，略懂国际及国密安全算	法，略懂ARM及x86汇编语言，略懂RTOS类实时操作系统，略懂嵌入式虚拟机及解释器原理，略懂各种外围		I/O接口协议，略懂C/C++及JAVA语言Hello World，略懂...略懂...
     </p>
 </div>
+
 
 
 
