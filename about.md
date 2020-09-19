@@ -8,9 +8,7 @@ layout: page
 
 <h2>关于作者</h2>
 
-<div style="background: left;">
-    <img src="assets/images/andy.jpg" height="150" width="160"/>
-</div>
+<div><img src="assets/images/andy.jpg" width="160" height="150" /></div>
 
 
 <div style="text-align: left;">
