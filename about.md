@@ -8,7 +8,7 @@ layout: page
 
 <h2>关于作者</h2>
 
-<div align="left"><img src="https://micro-j.github.io/assets/images/andy.jpg" width="160" height="150" /></div>
+<div><img src="https://micro-j.github.io/assets/images/andy.jpg" width="80px" height="150px" /></div>
 
 
 <div style="text-align: left;">
